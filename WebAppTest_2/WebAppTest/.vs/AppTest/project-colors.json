@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85927a40-8f28-4f77-b51a-31ff122a1f5d": {
+      "ProjectGuid": "85927a40-8f28-4f77-b51a-31ff122a1f5d",
+      "DisplayName": "TestApp",
+      "ColorIndex": 0
+    },
+    "c78fb233-9ebe-4a9d-ba33-10590b2cfaa9": {
+      "ProjectGuid": "c78fb233-9ebe-4a9d-ba33-10590b2cfaa9",
+      "DisplayName": "TestLib",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

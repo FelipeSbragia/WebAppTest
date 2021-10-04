@@ -1,0 +1,14 @@
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\bin\Debug\net6.0\TestLib.dll.config
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\bin\Debug\net6.0\TestLib.deps.json
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\bin\Debug\net6.0\TestLib.dll
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\bin\Debug\net6.0\ref\TestLib.dll
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\bin\Debug\net6.0\TestLib.pdb
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\TestLib.csproj.AssemblyReference.cache
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\TestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\TestLib.AssemblyInfoInputs.cache
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\TestLib.AssemblyInfo.cs
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\TestLib.dll
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\ref\TestLib.dll
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\obj\Debug\net6.0\TestLib.pdb
+C:\Users\fmsbr\Downloads\WebAppTest\WebAppTest\TestLib\bin\Debug\net6.0\App.config
